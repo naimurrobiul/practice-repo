@@ -1,0 +1,21 @@
+.first_message { 
+    margin: 20px;
+    /* background-color:rgba(250, 235, 215, 0.712);
+    background-size: cover; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.first_message p {
+    text-align: justify;
+
+}
+.first_message img{
+    float: right;
+    width: 150px;
+    border: 05px solid rgb(1, 8, 110) ;
+}
+.first_message button{
+    color: white;
+    background-color: #0C7EC9;
+    border-color: #0C7EC9;
+    
+}
